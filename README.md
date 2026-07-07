@@ -22,3 +22,10 @@ I designed and modeled the walls as modular assets, allowing rooms to be built a
 I have developed a simple but functional UI, including the main menu and a settings menu, with most of its features already working as intended. The current focus has been on functionality, while a polished visual design and language support is planned for a future stage of development.
 <br /><br />
 ![Settings](https://github.com/Tostereek/One-Way-Ticket/blob/548b550c233d8499305f7fe05adda253b80426e1/Images/Settings.png)
+<br /><br />
+I was responsible for implementing the game's audio, including creating Sound Cues from given assets, assigning sound classes, and setting up ambient audio zones
+![SoundCue](https://github.com/Tostereek/One-Way-Ticket/blob/e44a8b11a9995aeb1c07acdec40b26ee89ccca32/Images/SoundCue.png)
+<br /><br />
+I created simple particle effects using Niagara System.
+<br /><br />
+![Particles](https://github.com/Tostereek/One-Way-Ticket/blob/cef6c175ddd88b29e89d58d7304139dec98aa97d/Images/Particles.mp4)
