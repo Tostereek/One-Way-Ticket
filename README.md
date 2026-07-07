@@ -24,6 +24,7 @@ I have developed a simple but functional UI, including the main menu and a setti
 ![Settings](https://github.com/Tostereek/One-Way-Ticket/blob/548b550c233d8499305f7fe05adda253b80426e1/Images/Settings.png)
 <br /><br />
 I was responsible for implementing the game's audio, including creating Sound Cues from given assets, assigning sound classes, and setting up ambient audio zones
+<br /><br />
 ![SoundCue](https://github.com/Tostereek/One-Way-Ticket/blob/e44a8b11a9995aeb1c07acdec40b26ee89ccca32/Images/SoundCue.png)
 <br /><br />
 I created simple particle effects using Niagara System.
