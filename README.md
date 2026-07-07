@@ -11,3 +11,5 @@ My responsibilities include designing and building game levels, placing and poli
 ![CelShader](https://github.com/Tostereek/One-Way-Ticket/blob/cd4d5562f3732b7d2f4261d3bc9467335478ff88/Images/CelShader.png)
 The game features a cel-shaded art style with a limited color palette. The shader preserves key material properties, such as metallic and roughness values.
 ![ShaderProperties](https://github.com/Tostereek/One-Way-Ticket/blob/2f9a509d4ae3a6f1be97056c75ee141015ec10a1/Images/ShaderProperties.png)
+I designed and modeled the walls as modular assets, allowing rooms to be built and modified quickly and efficiently. I ensured that every piece was dimensionally precise down to the millimeter, preventing visible seams or misaligned connections. I applied the same modular approach and level of precision to the pipe system.
+![Level](https://github.com/Tostereek/One-Way-Ticket/blob/9fc9743587d277a768c59c186ac96cf11791dcce/Images/Level.png)
