@@ -27,6 +27,10 @@ I was responsible for implementing the game's audio, including creating Sound Cu
 <br /><br />
 ![SoundCue](https://github.com/Tostereek/One-Way-Ticket/blob/e44a8b11a9995aeb1c07acdec40b26ee89ccca32/Images/SoundCue.png)
 <br /><br />
+I created a simple pulsing outline effect that highlights interactive objects, providing players with clear visual feedback when an item can be interacted with.
+<br /><br />
+![Outline]()
+<br /><br />
 I created simple particle effects using Niagara System.
 <br /><br />
 ![Particles](https://github.com/Tostereek/One-Way-Ticket/blob/cef6c175ddd88b29e89d58d7304139dec98aa97d/Images/Particles.mp4)
