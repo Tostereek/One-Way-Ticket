@@ -33,4 +33,5 @@ I created a simple pulsing outline effect that highlights interactive objects, p
 <br /><br />
 I created simple particle effects using Niagara System.
 <br /><br />
-![Particles](https://github.com/Tostereek/One-Way-Ticket/blob/cef6c175ddd88b29e89d58d7304139dec98aa97d/Images/Particles.mp4)
+
+https://github.com/user-attachments/assets/8efce99d-cdf0-4257-8951-03849e3b93e1
