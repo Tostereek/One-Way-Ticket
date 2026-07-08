@@ -29,7 +29,9 @@ I was responsible for implementing the game's audio, including creating Sound Cu
 <br /><br />
 I created a simple pulsing outline effect that highlights interactive objects, providing players with clear visual feedback when an item can be interacted with.
 <br /><br />
-![Outline]()
+
+https://github.com/user-attachments/assets/bc0657e9-6b6c-4c59-94d1-1654123a1d53
+
 <br /><br />
 I created simple particle effects using Niagara System.
 <br /><br />
