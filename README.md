@@ -1,4 +1,5 @@
-# One Way Ticket
+# One Way Ticket 
+Status: Hiatus
 The player must resist the influence of the Solaris Ocean, which damages the spacecraft and causes visions or anomalies that pose a threat to the protagonist.
 <br />
 
