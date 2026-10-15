@@ -33,9 +33,9 @@ Early blockout:
     <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%204.png" alt="Blockout 4"></td>
   </tr>
 </table>
-<br /><br />
-I have developed a simple but functional UI, including the main menu and a settings menu, with most of its features already working as intended. The current focus has been on functionality, while a polished visual design and language support is planned for a future stage of development.
 
+I have developed a simple but functional UI, including the main menu and a settings menu, with most of its features already working as intended. The current focus has been on functionality, while a polished visual design and language support is planned for a future stage of development.
+<br /><br />
 ![Settings](https://github.com/Tostereek/One-Way-Ticket/blob/a8ef4bda0121d0dba7e8995836a1286b52177fa5/Images/Settings.png)
 <br /><br />
 I was responsible for implementing the game's audio, including creating Sound Cues from given assets, assigning sound classes, and setting up ambient audio zones
