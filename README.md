@@ -21,6 +21,10 @@ I designed and modeled the walls as modular assets, allowing rooms to be built a
 <br /><br />
 ![Level](https://github.com/Tostereek/One-Way-Ticket/blob/9fc9743587d277a768c59c186ac96cf11791dcce/Images/Level.png)
 <br /><br />
+Early blockout:
+<br /><br />
+![Blockout](Images/Blockout.png)
+<br /><br />
 I have developed a simple but functional UI, including the main menu and a settings menu, with most of its features already working as intended. The current focus has been on functionality, while a polished visual design and language support is planned for a future stage of development.
 <br /><br />
 ![Settings](https://github.com/Tostereek/One-Way-Ticket/blob/548b550c233d8499305f7fe05adda253b80426e1/Images/Settings.png)
