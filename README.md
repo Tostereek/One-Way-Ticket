@@ -13,7 +13,7 @@ My responsibilities include designing and building game levels, placing and poli
 <br /><br />
 ![CelShader](https://github.com/Tostereek/One-Way-Ticket/blob/cd4d5562f3732b7d2f4261d3bc9467335478ff88/Images/CelShader.png)
 <br /><br />
-<hr>
+<hr/>
 The game features a cel-shaded art style with a limited color palette. The shader preserves key material properties, such as metallic and roughness values.
 <br /><br />
 ![ShaderProperties](https://github.com/Tostereek/One-Way-Ticket/blob/2f9a509d4ae3a6f1be97056c75ee141015ec10a1/Images/ShaderProperties.png)
