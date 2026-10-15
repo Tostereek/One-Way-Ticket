@@ -25,7 +25,7 @@ Early blockout:
 <br /><br />
 <table>
   <tr>
-    <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 1"></td>
+    <td align="center"><img src="(https://github.com/Tostereek/One-Way-Ticket/blob/main/Images/Blockout.png?raw=true)" width="200" alt="Opis 1"></td>
     <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 2"></td>
   </tr>
   <tr>
