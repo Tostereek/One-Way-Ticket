@@ -23,7 +23,14 @@ I designed and modeled the walls as modular assets, allowing rooms to be built a
 <br /><br />
 Early blockout:
 <br /><br />
-![Blockout](Images/Blockout.png)
+<table>
+  <tr>
+    <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 1"></td>
+    <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 2"></td>
+    <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 3"></td>
+    <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 4"></td>
+  </tr>
+</table>
 <br /><br />
 I have developed a simple but functional UI, including the main menu and a settings menu, with most of its features already working as intended. The current focus has been on functionality, while a polished visual design and language support is planned for a future stage of development.
 <br /><br />
