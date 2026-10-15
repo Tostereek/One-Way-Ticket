@@ -35,13 +35,17 @@ Early blockout:
 </table>
 <br /><br />
 I have developed a simple but functional UI, including the main menu and a settings menu, with most of its features already working as intended. The current focus has been on functionality, while a polished visual design and language support is planned for a future stage of development.
-<br /><br />
 
 <br /><br />
+![Settings](https://github.com/Tostereek/One-Way-Ticket/blob/a8ef4bda0121d0dba7e8995836a1286b52177fa5/Images/Settings.png)
+<br /><br />
+
 I was responsible for implementing the game's audio, including creating Sound Cues from given assets, assigning sound classes, and setting up ambient audio zones
+
 <br /><br />
 ![SoundCue](https://github.com/Tostereek/One-Way-Ticket/blob/e44a8b11a9995aeb1c07acdec40b26ee89ccca32/Images/SoundCue.png)
 <br /><br />
+
 I created a simple pulsing outline effect that highlights interactive objects, providing players with clear visual feedback when an item can be interacted with.
 <br /><br />
 
