@@ -25,7 +25,7 @@ Early blockout:
 <br /><br />
 <table>
   <tr>
-    <td align="center">![Level](https://github.com/Tostereek/One-Way-Ticket/blob/9fc9743587d277a768c59c186ac96cf11791dcce/Images/Level.png)</td>
+    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/9fc9743587d277a768c59c186ac96cf11791dcce/Images/Level.png"></td>
     <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 2"></td>
   </tr>
   <tr>
