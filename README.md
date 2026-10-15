@@ -25,12 +25,12 @@ Early blockout:
 <br /><br />
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%201.png" width="50%" alt="Blockout 1"></td>
-    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%202.png" width="50%" alt="Blockout 2"></td>
+    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%201.png" alt="Blockout 1"></td>
+    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%202.png" alt="Blockout 2"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%203.png" width="50%" alt="Blockout 3"></td>
-    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%204.png" width="50%" alt="Blockout 4"></td>
+    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%203.png" alt="Blockout 3"></td>
+    <td align="center"><img src="https://github.com/Tostereek/One-Way-Ticket/blob/e86244405c4656ab80ea94cf7edc41319f5afb9c/Images/Blockout%204.png" alt="Blockout 4"></td>
   </tr>
 </table>
 <br /><br />
