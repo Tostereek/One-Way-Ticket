@@ -27,6 +27,8 @@ Early blockout:
   <tr>
     <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 1"></td>
     <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 2"></td>
+  </tr>
+  <tr>
     <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 3"></td>
     <td align="center"><img src="![Blockout](Images/Blockout.png)" width="200" alt="Opis 4"></td>
   </tr>
